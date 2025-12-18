@@ -1,0 +1,5 @@
+{
+  "name": "Grandmaster Pro Chess",
+  "description": "A comprehensive chess application with an AI engine, move tutor, and opening trainer. Features adjustable ELO levels and real-time move analysis.",
+  "requestFramePermissions": []
+}
